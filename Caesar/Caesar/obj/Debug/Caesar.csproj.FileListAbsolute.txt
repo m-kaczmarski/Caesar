@@ -1,0 +1,15 @@
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\MainWindow.g.cs
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\App.g.cs
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar_MarkupCompile.cache
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar_MarkupCompile.lref
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\bin\Debug\Caesar.exe.config
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\bin\Debug\Caesar.exe
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\bin\Debug\Caesar.pdb
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\MainWindow.baml
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.g.resources
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.Properties.Resources.resources
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.csproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.exe
+C:\Users\Marco\Desktop\Nowy folder\Caesar\Caesar\obj\Debug\Caesar.pdb
